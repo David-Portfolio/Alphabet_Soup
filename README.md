@@ -6,4 +6,4 @@ The purpose of this project is to build a machine learning model that will suppo
 
 Through trials, it is observed that increasing the hidden nodes will increase the predicitive accuracy.
 
-(Note: for column "IS_SUCCESSFUL", we have assumed that "0" = "N" and "1" = "Y".)
+*Note: for column "IS_SUCCESSFUL", we have assumed that "0" = "N" and "1" = "Y".
