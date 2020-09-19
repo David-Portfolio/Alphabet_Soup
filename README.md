@@ -6,6 +6,6 @@ The purpose of this project is to use machine learning techniques to support fut
 * Layer 4: 5 neurons
 * Layer 5: 1 neurons
 
-
+<img width="222" alt="Model Accuracy" src="https://user-images.githubusercontent.com/65242270/93688318-ca492700-fa79-11ea-84f8-63b102f8ebac.PNG">
 
 *Note: it is assumed that for column "IS_SUCCESSFUL" that "0" = "N" and "1" = "Y", and for column "STATUS" that "0" = "Not Active" and "1" = "Active".
