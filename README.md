@@ -1,9 +1,11 @@
-The purpose of this project is to use machine learning to support future funding decisions from Alphabet Soup. With the provided dataset of over 34,000 organizations that have previously received funding, we have our inputs to create a deep learning model. As the goal is to identify and accurately predict successful investments, the "IS_SUCCESSFUL" column was used to split the features and target arrays. After pre-processing the data, the model returns the history. This was achieved through the following layers:
+The purpose of this project is to use machine learning techniques to support future funding decisions from Alphabet Soup. The provided csv file aggregating over 34,000 organizations that have previously received funding is the data source for our deep learning model. After pre-processing the data, optimizing and running the model, we have achieved target performance of 75% accuracy. Additional layer details and graph for reference:
 
-* (1) hidden layer: 300 hidden nodes
-* (2) hidden layer: 200 hidden nodes
-* Output layer: 1 node
+* Layer 1: 20 neurons
+* Layer 2: 15 neurons
+* Layer 3: 10 neurons
+* Layer 4: 5 neurons
+* Layer 5: 1 neurons
 
-~For this model iteration, 100% accuracy is returned at epoch 27/50 and <1% loss is returned at epoch 2/50. See model graphs for trends.
 
-*Note: for column "IS_SUCCESSFUL", it is assumed that "0" = "N" and "1" = "Y".
+
+*Note: it is assumed that for column "IS_SUCCESSFUL" that "0" = "N" and "1" = "Y", and for column "STATUS" that "0" = "Not Active" and "1" = "Active".
