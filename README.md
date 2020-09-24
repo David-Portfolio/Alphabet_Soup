@@ -8,7 +8,7 @@ The purpose of this project is to use machine learning techniques to support fut
 Model performance: ~81% accuracy
 
 <img width="207" alt="Model Accuracy - Train Dataset" src="https://user-images.githubusercontent.com/65242270/94119522-e34c3200-fe03-11ea-80d2-420c0dbff5c3.PNG">
-Model performance: ~77% accuracy<br/>
+Model performance: ~77% accuracy\
 
 Both the test and train dataset achieved the model target performance (over 75% accuracy).
 
