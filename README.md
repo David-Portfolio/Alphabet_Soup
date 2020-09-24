@@ -10,6 +10,6 @@ The purpose of this project is to use machine learning techniques to support fut
 
 <img width="230" alt="Model Accuracy - Train Dataset" src="https://user-images.githubusercontent.com/65242270/94116995-8b5ffc00-fe00-11ea-8610-603428d6faf6.PNG">
 
-Both the test (~80%) and train (~77%) dataset achieved the model target performance (over 75% accuracy).
+Both the test (~80% accuracy) and train (~77% accuracy) dataset achieved the model target performance (over 75% accuracy).
 
 *Note: it is assumed that for column "IS_SUCCESSFUL" that "0" = "N" and "1" = "Y", and for column "STATUS" that "0" = "Not Active" and "1" = "Active".
