@@ -1,14 +1,14 @@
 The purpose of this project is to use machine learning techniques to support future funding decisions from Alphabet Soup. The csv file provides over 34,000 organizations that have previously received funding. After pre-processing the data, we are able to run our model.
 
-* Layer 1: 20 neurons, activation = "relu"
-* Layer 2: 10 neurons, activation = "relu"
+* Layer 1: 100 neurons, activation = "relu"
+* Layer 2: 50 neurons, activation = "relu"
 * Layer 3: 1 neurons, activation = "sigmoid"
 
-<img width="203" alt="Model Accuracy - Test Dataset" src="https://user-images.githubusercontent.com/65242270/94119517-e0e9d800-fe03-11ea-99ee-4ee51c219da7.PNG">
+<img width="198" alt="Model Accuracy - Test Dataset" src="https://user-images.githubusercontent.com/65242270/94314735-04ad3b00-ff36-11ea-910e-b704a950fabd.PNG">
 
-Model performance: ~81% accuracy
+Model performance: ~78% accuracy
 
-<img width="207" alt="Model Accuracy - Train Dataset" src="https://user-images.githubusercontent.com/65242270/94119522-e34c3200-fe03-11ea-80d2-420c0dbff5c3.PNG">
+<img width="197" alt="Model Accuracy - Train Dataset" src="https://user-images.githubusercontent.com/65242270/94314747-07a82b80-ff36-11ea-8503-72197a23e887.PNG">
 
 Model performance: ~77% accuracy <br />
 
