@@ -6,4 +6,4 @@ The purpose of this project is to use machine learning techniques to support fut
 
 <img width="220" alt="Model Accuracy - Test Dataset" src="https://user-images.githubusercontent.com/65242270/95001029-02bd2a80-057b-11eb-9cad-2df89c03d6ed.PNG">
 
-Module Result: The train dataset achieved the target performance.
+Module Result: The test dataset achieved the target performance.
